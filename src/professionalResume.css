@@ -1,0 +1,6 @@
+#professionalResume{
+    @media(min-width: 426px) {
+        height: 842px;
+        width: 595px;   
+    }
+}
